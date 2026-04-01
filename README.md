@@ -1,0 +1,1 @@
+This project fetches movie data from TMDB API and performs EDA using pandas.
